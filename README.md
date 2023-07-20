@@ -1,3 +1,5 @@
+
+
 ### "hero_devops_assignment1"
 ## Create a Python script to check the password strength. 
 In this code we check the strength of password by using different conditions.
@@ -6,7 +8,7 @@ For this code we import *re module* .In this we re.search(), it search the expre
 for example :- *if not re.search(r'[A-Z]', password):*
     + not operator is used to negate the result of the re.search() function.
     + The raw string r'[A-Z]' is used in the code to prevent the backslash character from being interpreted as  escape character.
-It is similar to all conditions . If password satisfies all the conditions the result will be "password is strong". 
+It is similar to all conditions . If password satisfies all the conditions the result will be "password is strong".
 ## Write a Python program to monitor the health of the CPU.
 In this program we check the health of the computer by checking the threshold limit of CPU . First we need to install psutils by using the command *pip install psutil*
 psutil is a Python library that provides access to system-related information, such as CPU usage, memory usage, disk usage, and network usage. Psutil has a wide range of functions that you can use to get information about your system.
