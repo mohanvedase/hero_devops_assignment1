@@ -1,6 +1,6 @@
 ### "hero_devops_assignment1"
 
-##Create a Python script to check the password strength. 
+## Create a Python script to check the password strength. 
 In this code we check the strength of password by using different conditions.
 #Conditions
 password should contain atleast 1 uppercase
@@ -25,5 +25,5 @@ It is similar to all conditions . If password satisfies all the conditions the r
 
 
 
-##Write a Python program to monitor the health of the CPU.
+## Write a Python program to monitor the health of the CPU.
 In this program we check the health of the computer by checking the threshold limit of CPU 
