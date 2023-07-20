@@ -1,5 +1,5 @@
 ### "hero_devops_assignment1"
-##Create a Python script to check the password strength. 
+## Create a Python script to check the password strength. 
 In this code we check the strength of password by using different conditions.
 #Condition:- password should contain atleast 1 (uppercase,lowercase,numeric number,special character)
 For this code we import *re module* .In this we re.search(), it search the expression and return the first occurrence.
